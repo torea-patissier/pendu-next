@@ -1,0 +1,68 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "chaise"
+    },
+    {
+      "id": 2,
+      "word": "table"
+    },
+    {
+      "id": 3,
+      "word": "voiture"
+    },
+    {
+      "id": 4,
+      "word": "maison"
+    },
+    {
+      "id": 5,
+      "word": "ordinateur"
+    },
+    {
+      "id": 6,
+      "word": "telephone"
+    },
+    {
+      "id": 7,
+      "word": "plante"
+    },
+    {
+      "id": 8,
+      "word": "livre"
+    },
+    {
+      "id": 9,
+      "word": "stylo"
+    },
+    {
+      "id": 10,
+      "word": "velo"
+    },
+    {
+      "word": "mobile",
+      "id": 11
+    },
+    {
+      "word": "bypass",
+      "id": 12
+    },
+    {
+      "word": "Factors",
+      "id": 13
+    },
+    {
+      "word": "salut",
+      "id": 14
+    },
+    {
+      "word": "banane",
+      "id": 15
+    },
+    {
+      "word": "cacao",
+      "id": 16
+    }
+  ]
+}
